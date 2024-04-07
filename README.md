@@ -46,7 +46,7 @@
 
 ###
 
-<p align="left">I'm Raju Lorence Murmu from Sahibganj<br><br>- 🔭 I’m working as freelancer as a Website Developer<br>- 📚 I'm currently learning DevOps<br>- ⚡ In my free time I browse through the internet</p>
+<p align="left">I'm Raju Lorence Murmu<br><br>- 🔭 I’m working as freelancer and as a Website Developer<br>- 📚 I'm currently learning DevOps<br>- ⚡ In my free time I browse through the internet and learn new technologies</p>
 
 ###
 
